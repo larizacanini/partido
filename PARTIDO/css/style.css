@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    width: 100%;
+    height: 720px;
+}
+header nav{
+    background-color: #be3636;
+    width: 100%;
+    height: 125px;
+}
+#logo img{
+    height: 100px;
+    margin: 10px 0px 10px 0px;
+    float: left;
+}
+#partido{
+    float: left;
+    margin: 10px 0 10px 0;
+    font-size: 25px;
+    color: white;
+}
+#botao{
+    
+}
